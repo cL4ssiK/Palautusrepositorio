@@ -1,1 +1,7 @@
 *.pyc
+hello-robot/
+login-robot/
+oma-kontti/
+verkkokauppa/
+tdd-ostoskori/
+mock-demo/
